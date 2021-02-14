@@ -52,11 +52,11 @@ logo = logo ="""
 
 FG
 
-AUTHOR: XZIRO
-Telegram: @XZIRO12
+AUTHOR: JOKER
+Telegram: @JOKER
 """
 back = 0
-successful = []
+successful = [1]
 cpb = []
 oks = []
 id = []
